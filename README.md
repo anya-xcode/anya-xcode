@@ -113,5 +113,5 @@
 ---
 
 <p align="center">
-  🧠 _“Striving to build beautiful and accessible web experiences.”_
+  Striving to build beautiful and accessible web experiences.
 </p>
