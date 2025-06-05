@@ -35,11 +35,12 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anya-xcode&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anya-xcode&theme=onestar&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=15" alt="Trophies" />
 </p>
+
 
 
 ---
