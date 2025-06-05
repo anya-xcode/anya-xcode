@@ -56,9 +56,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=<?=Date.now()?>" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&theme=tokyonight&hide_border=true&cache_bust=<?=Date.now()?>" alt="Top Languages"/>
 </p>
+
+
 
 ---
 
