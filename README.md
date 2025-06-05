@@ -1,95 +1,3 @@
-<h1 align="center">✨ Hi there, I'm Ananya Gupta 👋</h1>
-<h3 align="center">Frontend Developer | UI/UX Enthusiast | JavaScript Lover 💻</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=Crafting+clean+UI+%26+scalable+Frontend;React+%7C+TypeScript+%7C+Design+Systems;Open+Source+%7C+Community+Driven+Coder" alt="Typing SVG" />
-</p>
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📚 Currently Learning
-
-- 🧠 TypeScript advanced patterns  
-- 🎨 Framer Motion & design systems  
-- 📦 Next.js & component architecture  
-- 🧪 Testing React apps (Jest + RTL)
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anya-xcode&theme=onestar&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=15" alt="Trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anya-xcode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anya-xcode&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- 🎵 [**BopBerry**](https://github.com/anya-xcode/BopBerry): Music player with animated UI and playlists.
-- 🌐 [**Portfolio Website**](https://github.com/anya-xcode/Portfolio-Website): Personal portfolio made with HTML, CSS, JS.
-- 🎮 [**Emoji Game**](https://github.com/anya-xcode/Emoji-Game): A fun, fast-paced emoji memory game.
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ananya-gupta-7235a5319/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/anya_xcode" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  💬 <i>“Creating intuitive interfaces, one pixel at a time.”</i>
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Ananya Gupta</h1>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Open Source Contributor</h3>
 
@@ -152,12 +60,24 @@
 
 ---
 
-### 📫 Let's Connect
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="twitter" /></a>
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananya-gupta-7235a5319/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/anya_xcode" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="ananynagupta@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
