@@ -2,8 +2,14 @@
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
+  🎓 <strong>B.Tech (CS & AI/ML)</strong> | Newton School of Technology, Pune <br>
+  🤖 Aspiring AI/ML Engineer | Passionate about Data, Machine Learning & Problem Solving <br>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F70000&width=435&lines=Frontend+Developer;React+%7C+JavaScript+%7C+TypeScript;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
 
 ---
 ### 🚀 Languages I Code In
