@@ -1,4 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ananya Gupta</h1>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast | Open Source Contributor</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F70000&width=435&lines=Frontend+Developer;React+%7C+JavaScript+%7C+TypeScript;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anya-xcode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anya-xcode&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anya-xcode&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🎵 [**BopBerry**](https://github.com/anya-xcode/BopBerry): A sleek music player with a modern UI.
+- 🌐 [**Portfolio Website**](https://github.com/anya-xcode/Portfolio-Website): Personal site to showcase my dev journey and projects.
+- 🎮 [**Emoji Game**](https://github.com/anya-xcode/Emoji-Game): Fun emoji memory game built using JavaScript.
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="twitter" /></a>
+</p>
+
+---
+
+<p align="center">
+  🧠 _“Striving to build beautiful and accessible web experiences.”_
+</p>
+
+<!--## Hi there 👋
 # 👋 Hello, I'm Ananya Gupta!
 🌟 Frontend Developer | 🎨 UI/UX Enthusiast | 💻 Open Source Contributor
 ## 🛠️ Languages and Tools:
@@ -18,7 +90,7 @@
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-
+-->
 
 <!--
 **anya-xcode/anya-xcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
