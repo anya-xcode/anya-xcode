@@ -24,26 +24,19 @@
 
 ## ⚙️ Tools & Frameworks
 <p align="center">
-  <!-- Frontend Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  
-  <!-- Version Control & CI -->
   <br />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-  <!-- Deployment Tools -->
   <br />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-  <!-- Productivity & Design -->
   <br />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
@@ -55,18 +48,18 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=<?=Date.now()?>" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&theme=tokyonight&hide_border=true&cache_bust=<?=Date.now()?>" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Top Languages"/>
 </p>
-
-
 
 ---
 
 ### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anya-xcode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anya-xcode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -80,6 +73,7 @@
 ---
 
 ### 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anya-xcode&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
