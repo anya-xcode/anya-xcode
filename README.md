@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ananya Gupta</h1>
+<h1 align="center">Hi , I'm Ananya Gupta</h1>
 <h3 align="center">Full Stack Developer | Problem Solver | Open Source Contributor</h3>
 
 <p align="center">
-  🎓 <strong>B.Tech (CS & AI/ML)</strong> | Newton School of Technology, Pune <br>
-  💻 Passionate about Full-Stack Development, AI/ML & Scalable Systems <br>
-  ⚡ Loves solving challenging problems & building impactful projects
+   <strong>B.Tech (CS & AI/ML)</strong> | Newton School of Technology, Pune <br>
+   Passionate about Full-Stack Development, AI/ML & Scalable Systems <br>
+   Loves solving challenging problems & building impactful projects
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Languages I Code In
+##  Languages I Code In
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -27,7 +27,7 @@
 
 ---
 
-## ⚙️ Tools, Frameworks & Technologies
+##  Tools, Frameworks & Technologies
 <p align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Top Languages"/>
@@ -73,7 +73,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anya-xcode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
@@ -94,15 +94,15 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🎵 [**BopBerry**](https://github.com/anya-xcode/BopBerry): A sleek music player with a modern UI.  
-- 🌐 [**Portfolio Website**](https://github.com/anya-xcode/Portfolio-Website): Personal site to showcase my dev journey and projects.  
-- 🎮 [**Emoji Game**](https://github.com/anya-xcode/Emoji-Game): Fun emoji memory game built using JavaScript.  
-- 📦 [**RESTful Shipping API**](https://github.com/anya-xcode/Shipping-API): Full-stack API using Node.js, Express & MySQL.  
+##  Featured Projects
+-  [**BopBerry**](https://github.com/anya-xcode/BopBerry): A sleek music player with a modern UI.  
+-  [**Portfolio Website**](https://github.com/anya-xcode/Portfolio-Website): Personal site to showcase my dev journey and projects.  
+-  [**Emoji Game**](https://github.com/anya-xcode/Emoji-Game): Fun emoji memory game built using JavaScript.  
+-  [**RESTful Shipping API**](https://github.com/anya-xcode/Shipping-API): Full-stack API using Node.js, Express & MySQL.  
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ananya-gupta-7235a5319/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -120,5 +120,5 @@
 ---
 
 <p align="center">
-  💡 "Striving to build scalable, beautiful and accessible web experiences."
+  "Striving to build scalable, beautiful and accessible web experiences."
 </p>
