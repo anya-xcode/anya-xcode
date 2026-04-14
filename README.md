@@ -64,34 +64,33 @@
 </p>
 
 ---
-
-##  GitHub Stats
+## GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
 </p>
 
 ---
 
-##  GitHub Streak
+## GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anya-xcode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=anya-xcode&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<h2 align="center"> GitHub Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anya-xcode&theme=onestar&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anya-xcode&theme=onestar&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=15"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anya-xcode&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anya-xcode&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
 </p>
-
 ---
 
 ##  Featured Projects
