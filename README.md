@@ -1,123 +1,157 @@
-<h1 align="center">Hi , I'm Ananya Gupta</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Open Source Contributor</h3>
+<div align="center">
 
-<p align="center">
-   <strong>B.Tech (CS & AI/ML)</strong> | Newton School of Technology, Pune <br>
-   Passionate about Full-Stack Development, AI/ML & Scalable Systems <br>
-   Loves solving challenging problems & building impactful projects
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6D28D9&height=180&section=header&text=Ananya%20Gupta&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C2FF&width=480&lines=Full+Stack+Developer;Node.js+%7C+Express+%7C+React+%7C+MySQL;Advanced+Problem+Solving;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+B.Tech+AI%2FML;React+%7C+Node.js+%7C+Express+%7C+MongoDB+%7C+MySQL;Building+AI-powered+products+with+RAG+%26+LLMs;Open+Source+Contributor+%40+Sugar+Labs+%26+DrawDB" alt="Typing SVG" />
 
----
+<br/>
 
-##  Languages I Code In
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-</p>
+<a href="https://portfolio-website-smoky-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ananya-gupta-7235a5319/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/anya_xcode"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:ananya.gupta@adypu.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=anya-xcode&label=Profile%20Views&color=00C2FF&style=flat-square" alt="profile views" />
+
+</div>
 
 ---
 
-##  Tools, Frameworks & Technologies
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br/>
+## 👩‍💻 About Me
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+```yaml
+name: Ananya Gupta
+role: Full Stack Developer
+education: B.Tech in AI & ML — Newton School of Technology (ADYPU), Pune  # 2024–2028
+currently: Full Stack Intern @ AssessHub — AI-powered Sales Automation & CRM
+building: Email ingestion pipelines (Microsoft 365 APIs) + client-wise knowledge bases
+open_source: Sugar Labs · DrawDB · WAP NoteSharing
+learning: [RAG, LangGraph, Vector Databases, Scalable Backends]
+portfolio: https://portfolio-website-smoky-two.vercel.app/
+```
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge" />
-
-  <!-- DevOps & Hosting -->
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-  <!-- Other Tools -->
-  <br/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-
----
-## GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-</p>
+- 🔭 Working on an **AI-powered sales automation & CRM platform** — ingesting and cleaning large-scale client conversations, calls and documents.
+- 🧠 Building with **Retrieval-Augmented Generation, LangGraph, vector DBs and LLMs** for document search and intelligent recommendations.
+- 🌱 Contributing to real open-source codebases at **Sugar Labs** and **DrawDB**.
+- 🎯 Focused on scalable backend systems, clean APIs and accessible interfaces.
+- 💬 Ask me about **React, Node.js, Express, MongoDB, MySQL, Prisma, or anything full stack.**
 
 ---
 
-## GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anya-xcode&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,mongodb,mysql&theme=dark" />
+
+**AI / ML & Data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,postman,vercel,netlify,unity,powershell&theme=dark" />
+
+</div>
 
 ---
 
-<h2 align="center"> GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anya-xcode&theme=onestar&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=15"/>
-</p>
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Links |
+|:--|:--|:--|:--|
+| **📚 Notes Sharing Platform** | Collaborative web app where students upload, browse and download academic notes. Category-based search, structured content handling and real-time updates. | `React` `Express` `MongoDB` | [Code](https://github.com/anya-xcode/Notes-Sharing-Platform) · [Live](#) |
+| **🎯 IPREP** | Interview-prep platform for NST Pune students to share real interview experiences. Moderation, AI-powered answer generation, role-based filtering and a live placement tracker. | `React` `Express` `MongoDB` `Prisma` | [Code](https://github.com/anya-xcode/IPREP) · [Live](#) |
+| **🏠 Real Estate Platform** | Full-stack app to list, browse and manage properties — with map-based listings, property uploads, search and a loan EMI calculator. | `React` `Express` `MySQL` | [Code](https://github.com/anya-xcode/Real-Estate) · [Live](#) |
+| **🌐 Portfolio Website** | Personal site showcasing my work, stack and dev journey. | `React` `Tailwind` `Vercel` | [Live](https://portfolio-website-smoky-two.vercel.app/) |
+
+</div>
+
+### 🌍 Open Source
+
+- **Sugar Labs** — contributed features and bug fixes to live educational-software codebases.
+- **DrawDB** — worked on issues in an open-source database diagram editor.
+- **WAP NoteSharing (NST)** — developed features and collaborated with the community. *(Certificate of Participation, June 2025)*
 
 ---
 
-## Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anya-xcode&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
-</p>
----
+## 📊 GitHub Stats
 
-##  Featured Projects
--  [**BopBerry**](https://github.com/anya-xcode/BopBerry): A sleek music player with a modern UI.  
--  [**Portfolio Website**](https://github.com/anya-xcode/Portfolio-Website): Personal site to showcase my dev journey and projects.  
--  [**Emoji Game**](https://github.com/anya-xcode/Emoji-Game): Fun emoji memory game built using JavaScript.  
--  [**RESTful Shipping API**](https://github.com/anya-xcode/Shipping-API): Full-stack API using Node.js, Express & MySQL.  
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anya-xcode&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&cache_seconds=86400" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-xcode&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00C2FF&cache_seconds=86400" alt="Top languages" />
 
-##  Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ananya-gupta-7235a5319/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/anya_xcode" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="mailto:ananynagupta@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=anya-xcode&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=6D28D9&currStreakLabel=00C2FF&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anya-xcode&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1&margin-w=8&margin-h=8" alt="Trophies" />
+
+</div>
 
 ---
 
-<p align="center">
-  "Striving to build scalable, beautiful and accessible web experiences."
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anya-xcode&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anya-xcode/anya-xcode/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anya-xcode/anya-xcode/output/snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/anya-xcode/anya-xcode/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+- **Certificate of Participation** — Newton School of Technology, WAP Open Source NoteSharing *(June 2025)*
+- **AI For Everyone** — DeepLearning.AI *(February 2025)*
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://portfolio-website-smoky-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ananya-gupta-7235a5319/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/anya_xcode"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:ananya.gupta@adypu.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>"Striving to build scalable, beautiful and accessible web experiences."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:00C2FF&height=120&section=footer" width="100%" />
+
+</div>
